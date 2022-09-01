@@ -1,8 +1,9 @@
 # CRACKING-V.2
 Public Cloning
 
+
 ```
-#COMMAND
+🍆 ALL COMMAND
 
 √ pkg update
 √ pkg upgrade
