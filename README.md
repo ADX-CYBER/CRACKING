@@ -1,4 +1,4 @@
-# CRACKING-V.2
+# CRACKING
 Public Cloning
 
 
@@ -14,7 +14,7 @@ Public Cloning
 √ pip install bs4
 √ pip install rich
 √ pkg install git
-√ rm -rf CRACKING-V.2
+√ rm -rf CRACKING
 √ git clone https://github.com/ADX-CYBER/CRACKING-V.2
 √ cd CRACKING-V.2
 √ python Cracking.py
