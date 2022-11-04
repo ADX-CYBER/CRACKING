@@ -3,7 +3,7 @@ Public Cloning
 
 
 ```
-🍆 ALL COMMAND
+🎉 ALL COMMAND
 
 √ pkg update
 √ pkg upgrade
